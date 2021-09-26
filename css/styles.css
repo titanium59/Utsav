@@ -69,7 +69,8 @@ h3{
 }
 hr{
     border-style: dotted none none none;
-    border-color: #EAF6F6;
+    /* border-color: #EAF6F6; */
+    border-color: #112031;
     border-width: 7px;
     height: 0px;
     width: 5%;
